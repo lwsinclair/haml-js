@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/creationix-haml-js-badge.png)](https://mseep.ai/app/creationix-haml-js)
+
 # haml-js - Server side templating language for JavaScript
 
 Ever wanted to use the excellent HAML syntax on a javascript project?  Me too, so I made one!.  This has most of the same functionality as the traditional [haml][].
